@@ -2,3 +2,4 @@
 !test.txt
 newone/
 *.png
+!tex10t.txt

@@ -8,4 +8,6 @@ git remote remove origin
 git remote show origin
 git remote add origin https://github.com/AJEJ-AHMED/testing-github.git
 git push origin master
+git branch -d branchName
+
 
